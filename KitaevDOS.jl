@@ -1,6 +1,7 @@
 # -------------------------------------------------------------------
 # JULIA TOOL TO CALCULATE MAJORANA DENSITIES OF STATES
 # FOR DIFFERENT 2D AND 3D KITAEV MODELS
+# (written for Julia 0.6)
 # Author: Tim Eschmann
 # Date: 2019-11-11
 # Modified for new version of LatticePhysics: 2019-01-31
